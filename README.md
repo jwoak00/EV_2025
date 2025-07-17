@@ -101,11 +101,7 @@ roslaunch abc_track abc_track.launch
 
 ---
 
-##  RViz 빠른 시각화
-```bash
-rviz -d abc_track/rviz/abc_debug.rviz
-```
-*BEV / SlidingWindow / Goal Marker 레이어 포함.*
+
 
 ---
 
